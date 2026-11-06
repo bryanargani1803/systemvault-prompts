@@ -1,3 +1,13 @@
 title: Free AI prompts that work
-description: Copy-paste prompts for ChatGPT, Claude, Gemini, Midjourney, AI video and Suno, updated daily.
+description: Copy-paste prompts for ChatGPT, Claude, Gemini, Midjourney, AI video and Suno, with real outputs. Updated daily.
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+url: https://bryanargani1803.github.io
+baseurl: "/systemvault-prompts"
+webmaster_verifications:
+  google: oUVWkEuUiwAbws3hCmiyl0Cx1rGcp3HYw_la4deH4EI
+exclude:
+  - media/*.json
