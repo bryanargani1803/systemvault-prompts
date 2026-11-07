@@ -2,7 +2,7 @@
 
 3 copy-paste Veo prompts we published and use, in one place. Each one is complete: change the words in [BRACKETS] and paste it.
 
-- Free: [Free AI Prompt Playbook (Nov 2026)](https://systemvault123.gumroad.com/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-veo) (40-page PDF, 73 prompts, a new edition every month)
+- Free: [Free AI Prompt Playbook (Nov 2026)](https://public-files.gumroad.com/nrazi8qjqruel72jesrtow9x780l/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-veo) (40-page PDF, 73 prompts, a new edition every month)
 
 
 ## 1. Start here hub: the best free AI prompt guides for ChatGPT, Claude, Midjourney, Veo and Su
@@ -33,6 +33,6 @@ Limits: no threats, no legal claims, do not invent dates
 
 ---
 
-- Free: [Free AI Prompt Playbook (Nov 2026)](https://systemvault123.gumroad.com/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-veo-end) (40-page PDF, 73 prompts, a new edition every month)
+- Free: [Free AI Prompt Playbook (Nov 2026)](https://public-files.gumroad.com/nrazi8qjqruel72jesrtow9x780l/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-veo-end) (40-page PDF, 73 prompts, a new edition every month)
 
 Free to use in your own work. A link back is appreciated.

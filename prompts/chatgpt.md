@@ -2,7 +2,7 @@
 
 11 copy-paste ChatGPT prompts we published and use, in one place. Each one is complete: change the words in [BRACKETS] and paste it.
 
-- Free: [Free AI Prompt Playbook (Nov 2026)](https://systemvault123.gumroad.com/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-chatgpt) (40-page PDF, 73 prompts, a new edition every month)
+- Free: [Free AI Prompt Playbook (Nov 2026)](https://public-files.gumroad.com/nrazi8qjqruel72jesrtow9x780l/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-chatgpt) (40-page PDF, 73 prompts, a new edition every month)
 
 
 ## 1. Is it safe to copy 'ultimate' AI prompts? A 5-check test before you paste one
@@ -109,6 +109,6 @@ Ask me a question back only when you cannot answer without it.
 
 ---
 
-- Free: [Free AI Prompt Playbook (Nov 2026)](https://systemvault123.gumroad.com/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-chatgpt-end) (40-page PDF, 73 prompts, a new edition every month)
+- Free: [Free AI Prompt Playbook (Nov 2026)](https://public-files.gumroad.com/nrazi8qjqruel72jesrtow9x780l/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-chatgpt-end) (40-page PDF, 73 prompts, a new edition every month)
 
 Free to use in your own work. A link back is appreciated.
