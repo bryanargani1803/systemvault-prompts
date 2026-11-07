@@ -10,4 +10,8 @@ Copy-paste prompts for ChatGPT, Claude, Gemini, Midjourney, AI video, Suno, codi
 | [ChatGPT](prompts/chatgpt.md) | 11 |
 | [Veo](prompts/veo.md) | 3 |
 
-Updated 2026-11-06. Free to use. A link back is appreciated.
+## For creators
+
+Share our packs and earn 50% of every sale: [affiliate sign-up](https://systemvault123.gumroad.com/affiliates).
+
+Updated 2026-11-07. Free to use. A link back is appreciated.
