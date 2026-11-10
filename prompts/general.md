@@ -1,6 +1,6 @@
 # Best General prompts (November 2026)
 
-9 copy-paste General prompts we published and use, in one place. Each one is complete: change the words in [BRACKETS] and paste it.
+11 copy-paste General prompts we published and use, in one place. Each one is complete: change the words in [BRACKETS] and paste it.
 
 - Free: [Free AI Prompt Playbook (Nov 2026)](https://public-files.gumroad.com/nrazi8qjqruel72jesrtow9x780l/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-general) (40-page PDF, 73 prompts, a new edition every month)
 
@@ -124,6 +124,23 @@ Verdict: change.
 Reason: People clearly buy rota sheets, since most listings have reviews and a visible price range. But every result is built for restaurants, offices or nurses, so a café owner has to adapt it.
 
 The change: Sell it as a “Café staff rota” with columns for opening and closing shifts and a tab for splitting tips. Put “café” in the title and the first image.
+```
+
+## 10. A prompt that labels every line of a project instruction file as generic, vague or worth k
+
+```
+Audit this instruction file. Label every line GENERIC (any project could have it), VAGUE (nobody could check it in a diff) or KEEP. Then list what is missing that only the owner knows. Be short.
+
+[paste your file]
+```
+
+## 11. A prompt that labels every line of a project instruction file as generic, vague or worth k
+
+```
+"Always write clean code": GENERIC and VAGUE. Delete.
+"Run npm test before finishing a task": KEEP. Exact command, checkable.
+"Never edit files in generated/": KEEP. A boundary you can check in a diff.
+Missing: how to start the app; any rule learned from a past mistake.
 ```
 
 ---
