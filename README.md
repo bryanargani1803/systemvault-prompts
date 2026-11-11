@@ -8,8 +8,8 @@ Copy-paste prompts for ChatGPT, Claude, Gemini, Midjourney, AI video, Suno, codi
 | Tool | Prompts |
 | --- | --- |
 | [ChatGPT](prompts/chatgpt.md) | 11 |
-| [General](prompts/general.md) | 11 |
-| [Claude](prompts/claude.md) | 8 |
+| [General](prompts/general.md) | 9 |
+| [Claude](prompts/claude.md) | 5 |
 | [Veo](prompts/veo.md) | 3 |
 | [Gemini](prompts/gemini.md) | 2 |
 | [Canva](prompts/canva.md) | 1 |
@@ -25,4 +25,4 @@ Copy-paste prompts for ChatGPT, Claude, Gemini, Midjourney, AI video, Suno, codi
 
 Share our packs and earn 50% of every sale: [affiliate sign-up](https://systemvault123.gumroad.com/affiliates).
 
-Updated 2026-11-10. Free to use. A link back is appreciated.
+Updated 2026-11-11. Free to use. A link back is appreciated.
