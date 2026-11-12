@@ -1,6 +1,6 @@
 # Best General prompts (November 2026)
 
-9 copy-paste General prompts we published and use, in one place. Each one is complete: change the words in [BRACKETS] and paste it.
+17 copy-paste General prompts we published and use, in one place. Each one is complete: change the words in [BRACKETS] and paste it.
 
 - Free: [Free AI Prompt Playbook (Nov 2026)](https://public-files.gumroad.com/nrazi8qjqruel72jesrtow9x780l/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-general) (40-page PDF, 73 prompts, a new edition every month)
 
@@ -124,6 +124,95 @@ Verdict: change.
 Reason: People clearly buy rota sheets, since most listings have reviews and a visible price range. But every result is built for restaurants, offices or nurses, so a café owner has to adapt it.
 
 The change: Sell it as a “Café staff rota” with columns for opening and closing shifts and a tab for splitting tips. Put “café” in the title and the first image.
+```
+
+## 10. A review-mining prompt that turns 8 made-up customer reviews into counted themes, exact qu
+
+```
+1. Great layout but I could not figure out how to add a new client. Had to watch a video.
+2. Love the colours. Wish it came with a Notion version, I don't use Excel.
+3. Finally something that doesn't need a subscription. But the instructions were one page and confusing.
+4. The invoice tab is fine. I spent an hour setting up the tax tab and still don't trust the totals.
+5. Too many tabs for what I need. I only invoice 3 clients.
+6. Works great once it's set up. Setup took me an evening though.
+7. Wish it had a quick-start for people who are not good with spreadsheets.
+8. Nice design, no complaints about price. The tax tab was the only part I skipped.
+```
+
+## 11. A review-mining prompt that turns 8 made-up customer reviews into counted themes, exact qu
+
+```
+Summarize these reviews.
+[the eight reviews]
+```
+
+## 12. A review-mining prompt that turns 8 made-up customer reviews into counted themes, exact qu
+
+```
+Customers like the design and the fact that there is no subscription. Several found the setup and instructions confusing, and the tax tab caused trouble for a few. Some would like a simpler version or a Notion version.
+```
+
+## 13. A review-mining prompt that turns 8 made-up customer reviews into counted themes, exact qu
+
+```
+You are a market researcher reading customer reviews. Use only the reviews below. Do not add anything you already know about this product.
+
+1. Group the complaints and wishes into themes. For each theme give a short name, how many of the reviews mention it, and 1 or 2 exact quotes.
+2. Do the same for praise.
+3. List the exact phrases buyers use that I could reuse in a headline. Copy them word for word. Do not tidy them.
+4. Write one sentence: who is the buyer, and what are they afraid of?
+5. If only one review mentions something, label it ONE MENTION. Do not call it a trend.
+
+Reviews:
+[paste your reviews here]
+```
+
+## 14. A review-mining prompt that turns 8 made-up customer reviews into counted themes, exact qu
+
+```
+Complaints and wishes
+- Setup and instructions (4 of 8 reviews: 1, 3, 6, 7)
+  'I could not figure out how to add a new client'
+  'the instructions were one page and confusing'
+  'Setup took me an evening though'
+  'a quick-start for people who are not good with spreadsheets'
+- Tax tab (2 of 8 reviews: 4, 8)
+  'I spent an hour setting up the tax tab and still don't trust the totals'
+  'The tax tab was the only part I skipped'
+- Too many tabs (ONE MENTION, review 5)
+  'Too many tabs for what I need. I only invoice 3 clients.'
+- Notion version (ONE MENTION, review 2)
+  'Wish it came with a Notion version'
+
+Praise
+- Design (3 of 8 reviews: 1, 2, 8)
+  'Great layout', 'Love the colours', 'Nice design'
+- No subscription (ONE MENTION, review 3)
+
+Buyer words for headlines
+'figure out how to add a new client', 'don't trust the totals', 'not good with spreadsheets', 'Too many tabs for what I need'
+
+Buyer: a solo freelancer with a few clients who is not confident with spreadsheets. They are afraid of losing an evening to setup and still ending up with totals they cannot trust.
+```
+
+## 15. A review-mining prompt that turns 8 made-up customer reviews into counted themes, exact qu
+
+```
+Using only the buyer words and the buyer sentence above, write 3 first-page lines for a simpler invoice tracker. No invented numbers or promises.
+```
+
+## 16. A review-mining prompt that turns 8 made-up customer reviews into counted themes, exact qu
+
+```
+1. Add your first client without watching a video.
+2. Built for three clients, not thirty tabs.
+3. Totals you can check yourself, or no tax tab at all.
+```
+
+## 17. A review-mining prompt that turns 8 made-up customer reviews into counted themes, exact qu
+
+```
+Now look for reviews that disagree with the themes above. Quote each one. Then tell me which theme is the weakest and why.
 ```
 
 ---
