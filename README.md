@@ -2,7 +2,7 @@
 
 Copy-paste prompts for ChatGPT, Claude, Gemini, Midjourney, AI video, Suno, coding tools and agents. Every prompt here was published in our free guides and posts. New prompts are added every day.
 
-- Free: [Free AI Prompt Playbook (Nov 2026)](https://public-files.gumroad.com/nrazi8qjqruel72jesrtow9x780l/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-home) (40-page PDF, 73 prompts, a new edition every month)
+- Free: [Free AI Prompt Playbook](https://levitheblue.gumroad.com/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-home) (40-page PDF, 73 prompts, a new edition every month)
 
 
 | Tool | Prompts |
@@ -24,6 +24,6 @@ Copy-paste prompts for ChatGPT, Claude, Gemini, Midjourney, AI video, Suno, codi
 
 ## For creators
 
-Share our packs and earn 50% of every sale: [affiliate sign-up](https://systemvault123.gumroad.com/affiliates).
+Share our packs and earn 50% of every sale: [affiliate sign-up](https://levitheblue.gumroad.com/affiliates).
 
 Updated 2026-11-12. Free to use. A link back is appreciated.

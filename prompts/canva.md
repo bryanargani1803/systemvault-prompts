@@ -2,7 +2,7 @@
 
 1 copy-paste Canva prompts we published and use, in one place. Each one is complete: change the words in [BRACKETS] and paste it.
 
-- Free: [Free AI Prompt Playbook (Nov 2026)](https://public-files.gumroad.com/nrazi8qjqruel72jesrtow9x780l/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-canva) (40-page PDF, 73 prompts, a new edition every month)
+- Free: [Free AI Prompt Playbook](https://levitheblue.gumroad.com/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-canva) (40-page PDF, 73 prompts, a new edition every month)
 
 
 ## 1. How to check a digital product idea before building it: a prompt that returns ideas you ca
@@ -26,6 +26,6 @@ Mark anything you are guessing with GUESS.
 
 ---
 
-- Free: [Free AI Prompt Playbook (Nov 2026)](https://public-files.gumroad.com/nrazi8qjqruel72jesrtow9x780l/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-canva-end) (40-page PDF, 73 prompts, a new edition every month)
+- Free: [Free AI Prompt Playbook](https://levitheblue.gumroad.com/l/ai-prompt-playbook-free?utm_source=github&utm_medium=organic&utm_campaign=library-canva-end) (40-page PDF, 73 prompts, a new edition every month)
 
 Free to use in your own work. A link back is appreciated.
