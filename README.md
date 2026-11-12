@@ -25,4 +25,4 @@ Copy-paste prompts for ChatGPT, Claude, Gemini, Midjourney, AI video, Suno, codi
 
 Share our packs and earn 50% of every sale: [affiliate sign-up](https://systemvault123.gumroad.com/affiliates).
 
-Updated 2026-11-11. Free to use. A link back is appreciated.
+Updated 2026-11-12. Free to use. A link back is appreciated.
